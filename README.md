@@ -1,1 +1,1 @@
-# Movie-list-React-App
+# movie-maniac
